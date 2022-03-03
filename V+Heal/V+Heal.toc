@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Vanilla Plus - Heal
+## Notes: An example of a macro that is contained in an addon.
+
+Code.lua
